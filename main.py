@@ -1,4 +1,5 @@
-from multa import calcular_valor_multa 
+from multa import calcular_valor_multa
+from recargo import calcular_recargo
 # Datos de entrada
 tipo_infraccion = 0
 grado_infraccion  = 0
