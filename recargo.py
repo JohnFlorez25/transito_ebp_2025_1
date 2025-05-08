@@ -9,4 +9,4 @@ def calcular_recargo(tipo_infraccion,grado_infraccion):
         else:
             numero_dias = int(input("Ingrese el número de días que estuvo el vehículo inmovilizado: "))
             recargo = ((numero_dias * parqueadero) + grua)
-        return recargo   
+    return recargo   
